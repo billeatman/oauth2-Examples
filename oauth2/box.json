@@ -1,0 +1,26 @@
+{
+    "name" : "oauth2",
+    "slug" : "oauth2",
+    "version" : "1.1.0",
+    "author" : "William Eatman <billeatman@hotmail.com>",
+    "location" : "https://github.com/billeatman/oauth2/archive/master.zip",
+    "createPackageDirectory" : "true",
+    "Homepage" : "https://github.com/billeatman/oauth2",
+    "Documentation" : "https://github.com/billeatman/oauth2",
+    "Repository" : {
+        "type" : "git", "URL" : "https://github.com/billeatman/oauth2.git"
+    },
+    "Bugs" : "https://github.com/billeatman/oauth2/issues",
+    "shortDescription" : "Oauth2 for ColdFusion",
+    "keywords" : [ "google", "oauth2", "API"],
+    "engines" : [
+        { "type" : "railo", "version" : ">=4.1.x" },
+        { "type" : "adobe", "version" : ">=9.0.0" }
+    ],
+    "defaultEngine" : "cf11, cf10, cf9, railo",
+    "defaultPort" : 8080,
+    "CFCType" : "tag",
+    "License" : [
+        { "type" : "Apache2", "URL" : "http://www.apache.org/licenses/LICENSE-2.0.html" }
+    ]
+}
