@@ -1,7 +1,7 @@
 {
-    "name" : "oauth2",
-    "slug" : "oauth2",
-    "version" : "1.0.1",
+    "name" : "oauth2-examples",
+    "slug" : "oauth2-examples",
+    "version" : "1.0.2",
     "author" : "William Eatman <billeatman@hotmail.com>",
     "location" : "https://github.com/billeatman/oauth2-Examples/archive/master.zip",
     "createPackageDirectory" : "true",
@@ -22,7 +22,7 @@
     "CFCType" : "tag",
     "ProjectURL" : "https://github.com/billeatman/oauth2-Examples",
     "License" : [
-        { "type" : "APACHE 2", "URL" : "http://www.apache.org/licenses/LICENSE-2.0.html" }
+        { "type" : "Apache2", "URL" : "http://www.apache.org/licenses/LICENSE-2.0.html" }
     ],
     "Dependencies" : {
         "oauth2" : "x" 
