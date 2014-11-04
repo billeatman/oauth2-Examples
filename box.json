@@ -1,7 +1,7 @@
 {
     "name" : "oauth2-examples",
     "slug" : "oauth2-examples",
-    "version" : "1.0.2",
+    "version" : "1.0.3",
     "author" : "William Eatman <billeatman@hotmail.com>",
     "location" : "https://github.com/billeatman/oauth2-Examples/archive/master.zip",
     "createPackageDirectory" : "true",
@@ -11,7 +11,7 @@
         "type" : "git", "URL" : "https://github.com/billeatman/oauth2-Examples.git"
     },
     "Bugs" : "https://github.com/billeatman/oauth2-Examples/issues",
-    "shortDescription" : "Examples for Oauth2,
+    "shortDescription" : "Examples for Oauth2",
     "keywords" : [ "Oauth2", "Google"],
     "engines" : [
         { "type" : "railo", "version" : ">=4.1.x" },
