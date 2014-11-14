@@ -1,7 +1,7 @@
 {
     "name" : "oauth2",
     "slug" : "oauth2",
-    "version" : "1.1.0",
+    "version" : "1.2.0",
     "author" : "William Eatman <billeatman@hotmail.com>",
     "location" : "https://github.com/billeatman/oauth2/archive/master.zip",
     "createPackageDirectory" : "true",

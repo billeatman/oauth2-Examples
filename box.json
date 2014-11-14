@@ -1,7 +1,7 @@
 {
     "name" : "oauth2-examples",
     "slug" : "oauth2-examples",
-    "version" : "1.0.3",
+    "version" : "1.0.4",
     "author" : "William Eatman <billeatman@hotmail.com>",
     "location" : "https://github.com/billeatman/oauth2-Examples/archive/master.zip",
     "createPackageDirectory" : "true",

@@ -58,9 +58,13 @@
 	<cfreturn getTokenStruct().refresh_token>
 </cffunction>
 
-<cffunction name="SetRefresh_token" access="private" output="true" hint="setter for oauth refresh_token">
+<cffunction name="SetRefresh_token" access="public" output="true" hint="setter for oauth refresh_token">
 	<cfargument name="refresh_token" type="string" required="true">
 	<cfset getTokenStruct()['refresh_token'] = arguments.refresh_token>
+</cffunction>
+
+<cffunction name="GetRedirect_uri" access="public" output="false" hint="getter for oauth redirect_uri">
+	<cfreturn variables.redirect_uri>	
 </cffunction>
 
 <!--- end of token handling --->
